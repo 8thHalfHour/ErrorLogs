@@ -1,0 +1,186 @@
+$ startxfce4
+/usr/bin/startxfce4: X server already running on display 172.27.192.1:0.0
+gpg-agent[1824]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1808): xfce4-session-WARNING **: 11:43:09.605: gpg-agent returned no PID in the variables
+
+(xfce4-session:1808): GLib-CRITICAL **: 11:43:09.607: g_file_test: assertion 'filename != NULL' failed
+
+(xfce4-session:1808): xfce4-session-WARNING **: 11:43:09.607: xfsm_manager_load_session: Something wrong with (null), Does it exist? Permissions issue?
+
+** (agent:1842): CRITICAL **: 11:43:09.619: Failed to get connection to system bus: Could not connect: No such file or directory
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+
+(process:1860): dconf-CRITICAL **: 11:43:09.642: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.643: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.643: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.643: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.643: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.644: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.644: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.645: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.645: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.645: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(process:1860): dconf-CRITICAL **: 11:43:09.645: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.647: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+/usr/share/system-config-printer/applet.py:27: DeprecationWarning: Importing dbus.glib to use the GLib main loop with dbus-python is deprecated.
+Instead, use this sequence:
+
+    from dbus.mainloop.glib import DBusGMainLoop
+
+    DBusGMainLoop(set_as_default=True)
+
+  import dbus.glib
+
+(polkit-gnome-authentication-agent-1:1837): polkit-gnome-1-WARNING **: 11:43:09.773: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+
+(xfsettingsd:1852): xfsettingsd-WARNING **: 11:43:09.786: Property "/Gdk/WindowScalingFactor" has an unsupported type "guint".
+
+(xfce4-session:1808): Gtk-WARNING **: 11:43:09.798: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1808): Gtk-WARNING **: 11:43:09.798: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1808): Gtk-WARNING **: 11:43:09.799: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1808): Gtk-WARNING **: 11:43:09.800: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1808): Gtk-WARNING **: 11:43:09.800: Unable to locate theme engine in module_path: "pixmap",
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.800: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.801: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.801: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.801: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.801: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(xfsettingsd:1852): libupower-glib-WARNING **: 11:43:09.804: Couldn't connect to proxy: Could not connect: No such file or directory
+
+(xfsettingsd:1852): libupower-glib-CRITICAL **: 11:43:09.804: up_client_get_lid_is_closed: assertion 'UP_IS_CLIENT (client)' failed
+
+(xfsettingsd:1852): GLib-GObject-WARNING **: 11:43:09.804: invalid (NULL) pointer instance
+
+(xfsettingsd:1852): GLib-GObject-CRITICAL **: 11:43:09.804: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nm-applet:1847): dconf-CRITICAL **: 11:43:09.825: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.825: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(nm-applet:1847): dconf-CRITICAL **: 11:43:09.825: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(nm-applet:1847): dconf-CRITICAL **: 11:43:09.826: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(nm-applet:1847): nm-applet-WARNING **: 11:43:09.827: Error connecting to system D-Bus: Could not connect: No such file or directory
+
+(nm-applet:1847): nm-applet-WARNING **: 11:43:09.827: Could not connect: No such file or directory
+
+(xfwm4:1827): xfwm4-WARNING **: 11:43:09.827: Error opening /dev/dri/card0: No such file or directory
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.828: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.861: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.861: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.861: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.861: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(light-locker:1860): dconf-CRITICAL **: 11:43:09.861: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+/usr/share/system-config-printer/applet.py:45: PyGIWarning: Notify was imported without specifying a version first. Use gi.require_version('Notify', '0.7') before import to ensure that the right version gets loaded.
+  from gi.repository import Notify
+system-config-printer-applet: failed to connect to system D-Bus
+
+(nm-applet:1847): dconf-CRITICAL **: 11:43:09.866: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(xfwm4:1827): Gtk-WARNING **: 11:43:09.868: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1827): Gtk-WARNING **: 11:43:09.869: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1827): Gtk-WARNING **: 11:43:09.869: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1827): Gtk-WARNING **: 11:43:09.870: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1827): Gtk-WARNING **: 11:43:09.871: Unable to locate theme engine in module_path: "pixmap",
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.911: ((libnm/nm-client.c:274)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.913: ((libnm/nm-client.c:235)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.913: ((libnm/nm-client.c:290)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.913: ((libnm/nm-client.c:333)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.913: ((libnm/nm-client.c:370)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.914: ((libnm/nm-client.c:389)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.914: ((libnm/nm-client.c:426)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.914: ((libnm/nm-client.c:894)): assertion '<dropped>' failed
+
+(nm-applet:1847): libnm-CRITICAL **: 11:43:09.914: ((libnm/nm-client.c:894)): assertion '<dropped>' failed
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.947: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.948: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.952: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.952: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.953: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.953: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.953: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.953: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.953: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.963: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.966: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.966: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(evolution-alarm-notify:1849): dconf-CRITICAL **: 11:43:09.966: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(xfce4-session:1808): xfce4-session-WARNING **: 11:43:10.114: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfce4-session:1808): xfce4-session-WARNING **: 11:43:10.117: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(wrapper-2.0:2058): libactions-WARNING **: 11:43:10.118: Calling CanHybridSleep failed GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "CanHybridSleep" with signature "" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(xfdesktop:1835): GVFS-RemoteVolumeMonitor-WARNING **: 11:43:10.145: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(wrapper-2.0:2057): Gtk-WARNING **: 11:43:10.148: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 28
+
+(wrapper-2.0:2057): Gtk-WARNING **: 11:43:10.148: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node border, owner GtkFrame)
+
+(clipit:1836): Gdk-CRITICAL **: 11:43:10.149: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:2058): Gtk-WARNING **: 11:43:10.153: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+
+(wrapper-2.0:2057): Gtk-WARNING **: 11:43:10.161: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 28
+
+(wrapper-2.0:2057): Gtk-WARNING **: 11:43:10.161: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node border, owner GtkFrame)
+
+** (xfdesktop:1835): WARNING **: 11:43:10.269: Failed to get system bus: Could not connect: No such file or directory
