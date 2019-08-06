@@ -1,0 +1,449 @@
+\*\* Message: 11:23:01.608: main.vala:102: Session is LXDE
+
+\*\* Message: 11:23:01.608: main.vala:103: DE is LXDE
+
+\*\* Message: 11:23:01.644: main.vala:134: log directory: /home/moby/.cache/lxsession/LXDE
+
+\*\* Message: 11:23:01.644: main.vala:135: log path: /home/moby/.cache/lxsession/LXDE/run.log
+
+\*\* Message: 11:23:01.644: environement.vala:58: Exporting primary\_variable
+
+\*\* Message: 11:23:01.644: environement.vala:59: desktop\_environnement XDG\_CURRENT\_DESKTOP
+
+\*\* Message: 11:23:01.644: environement.vala:150: confir\_dirs is null, export : /etc/xdg
+
+\*\* Message: 11:23:01.644: environement.vala:184: Exporting XDG\_CONFIG\_DIRS
+
+\*\* Message: 11:23:01.644: environement.vala:218: custom\_data :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+
+\*\* Message: 11:23:01.644: environement.vala:219: data\_dirs :/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+
+\*\* Message: 11:23:01.644: environement.vala:220: data\_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+
+\*\* Message: 11:23:01.644: environement.vala:225: Exporting XDG\_DATA\_DIRS
+
+\*\* Message: 11:23:01.645: utils.vala:68: User config used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.645: utils.vala:89: Final file used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “windows\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “file\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “desktop\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “launcher\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “composite\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “im\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “power\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “audio\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “workspace\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “screenshot\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “message\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.645: settings.vala:540: Key file does not have key “upgrade\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “updates\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “updates\_manager/timeout” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “crash\_manager/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “crash\_manager/dev\_mode” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “crash\_manager/timeout” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “upstart\_user\_session” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “proxy\_manager/http” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “network\_gui/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “email/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “pdf\_reader/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “video\_player/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “audio\_player/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “images\_display/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “text\_editor/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “document/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “disk\_utility/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have group “Keymap”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “laptop\_mode” in group “State”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “type” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “ubuntu\_menuproxy” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “toolkit\_integration” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “gtk/overlay\_scrollbar\_disable” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “qt/force\_theme” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+
+\*\* Message: 11:23:01.646: settings.vala:462: Monitoring: /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.646: settings.vala:466: Desktop file is already in config home, do nothing
+
+\*\* Message: 11:23:01.646: settings.vala:373: Settings default for Session, windows\_manager, command : openbox
+
+\*\* Message: 11:23:01.646: settings.vala:373: Settings default for Session, windows\_manager, session : LXDE
+
+\*\* Message: 11:23:01.646: settings.vala:373: Settings default for Session, launcher\_manager, command : lxpanelctl
+
+\*\* Message: 11:23:01.647: environement.vala:79: Exporting variable
+
+\*\* Message: 11:23:01.647: environement.vala:80: desktop\_environnement XDG\_CURRENT\_DESKTOP
+
+\*\* Message: 11:23:01.647: environement.vala:177: custom\_config :
+
+\*\* Message: 11:23:01.647: environement.vala:178: config\_dirs :/etc/xdg
+
+\*\* Message: 11:23:01.647: environement.vala:179: confir\_dirs not null, export : /etc/xdg
+
+\*\* Message: 11:23:01.647: environement.vala:184: Exporting XDG\_CONFIG\_DIRS
+
+\*\* Message: 11:23:01.647: environement.vala:218: custom\_data :
+
+\*\* Message: 11:23:01.647: environement.vala:219: data\_dirs :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+
+\*\* Message: 11:23:01.647: environement.vala:220: data\_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+
+\*\* Message: 11:23:01.647: environement.vala:225: Exporting XDG\_DATA\_DIRS
+
+\*\* Message: 11:23:01.647: utils.vala:68: User config used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.647: utils.vala:89: Final file used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.647: environement.vala:254: No entry in \[Environment\_variable\]. Key file does not have group “Environment\_variable”
+
+\*\* Message: 11:23:01.648: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+
+\*\* Message: 11:23:01.648: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/conffiles.conf
+
+\*\* Message: 11:23:01.649: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/conffiles.conf
+
+\*\* Message: 11:23:01.649: options.vala:164: Activate xsettings\_manager build-in
+
+\*\* Message: 11:23:01.649: utils.vala:68: User config used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+\*\* Message: 11:23:01.649: utils.vala:89: Final file used : /home/moby/.config/lxsession/LXDE/desktop.conf
+
+xprop:  no such property "\_NET\_NUMBER\_OF\_DESKTOPS"
+
+xprop:  no such property "\_NET\_DESKTOP\_NAMES"
+
+openbox-lxde (null)
+
+\*\* Message: 11:23:01.669: app.vala:721: polkit separate
+
+\*\* Message: 11:23:01.669: app.vala:721: polkit separate
+
+\*\* Message: 11:23:01.671: app.vala:76: Launching lxpolkit
+
+lxpolkit (null)
+
+\*\* Message: 11:23:01.671: utils.vala:68: User config used : /home/moby/.config/lxsession/LXDE/autostart
+
+\*\* Message: 11:23:01.671: utils.vala:89: Final file used : /home/moby/.config/lxsession/LXDE/autostart
+
+\*\* Message: 11:23:01.671: autostart.vala:42: Autostart path : /home/moby/.config/lxsession/LXDE/autostart
+
+\*\* Message: 11:23:01.674: app.vala:76: Launching lxpanel
+
+lxpanel --profile LXDE (null)
+
+\*\* Message: 11:23:01.676: app.vala:76: Launching pcmanfm
+
+pcmanfm --desktop --profile LXDE (null)
+
+\*\* Message: 11:23:01.678: app.vala:76: Launching xscreensaver
+
+xscreensaver -no-splash (null)
+
+\*\* Message: 11:23:01.681: options.vala:107: Create build-in Clipboard
+
+\*\* Message: 11:23:01.687: main.vala:442: Check keymap\_mode (null)
+
+\*\* Message: 11:23:01.689: app.vala:76: Launching /usr/bin/ssh-agent
+
+/usr/bin/ssh-agent -s (null)
+
+SSH\_AUTH\_SOCK=/tmp/ssh-xZ5pXr0lvdLi/agent.1240; export SSH\_AUTH\_SOCK;
+
+SSH\_AGENT\_PID=1251; export SSH\_AGENT\_PID;
+
+echo Agent pid 1251;
+
+&#x200B;
+
+\*\* (agent:1241): CRITICAL \*\*: 11:23:01.693: Failed to get connection to system bus: Could not connect: No such file or directory
+
+Openbox-Message: 11:23:01.697: Unable to make directory '/home/moby/.cache/openbox': Permission denied
+
+Openbox-Message: Unable to make directory "/home/moby/.cache/openbox/sessions": Permission denied
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.701: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.702: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.702: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.702: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+\*\* Message: 11:23:01.704: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.705: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.705: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.706: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.707: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1238): dconf-CRITICAL \*\*: 11:23:01.707: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.708: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+Connection failure: Connection refused
+
+pa\_context\_connect() failed: Connection refused
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.724: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(process:1243): dconf-CRITICAL \*\*: 11:23:01.725: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+\*\* Message: 11:23:01.728: app.vala:130: pcmanfm exit with this type of exit: 256
+
+\*\* Message: 11:23:01.728: app.vala:145: Exit normal, don't reload
+
+\*\* Message: 11:23:01.757: x-terminal-emulator has very limited support, consider choose another terminal
+
+dbus-daemon\[1265\]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1238 comm="light-locker ")
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.805: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.806: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.806: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.806: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.806: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+dbus-daemon\[1265\]: Successfully activated service 'org.a11y.atspi.Registry'
+
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.841: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.842: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.842: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.842: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(light-locker:1238): dconf-CRITICAL \*\*: 11:23:01.842: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(nm-applet:1252): dconf-CRITICAL \*\*: 11:23:01.846: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(nm-applet:1252): dconf-CRITICAL \*\*: 11:23:01.846: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(nm-applet:1252): dconf-CRITICAL \*\*: 11:23:01.847: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(nm-applet:1252): nm-applet-WARNING \*\*: 11:23:01.850: Error connecting to system D-Bus: Could not connect: No such file or directory
+
+&#x200B;
+
+(nm-applet:1252): nm-applet-WARNING \*\*: 11:23:01.850: Could not connect: No such file or directory
+
+&#x200B;
+
+(nm-applet:1252): dconf-CRITICAL \*\*: 11:23:01.850: unable to create directory '/home/moby/.cache/dconf': Permission denied.  dconf will not work properly.
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.851: ((libnm/nm-client.c:274)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.852: ((libnm/nm-client.c:235)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:290)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:333)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:370)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:389)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:426)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:894)): assertion '<dropped>' failed
+
+&#x200B;
+
+(nm-applet:1252): libnm-CRITICAL \*\*: 11:23:01.853: ((libnm/nm-client.c:894)): assertion '<dropped>' failed
+
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+&#x200B;
+
+&#x200B;
